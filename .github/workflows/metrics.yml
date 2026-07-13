@@ -19,9 +19,11 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: AidilKiy
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          plugin_languages_indepth: yes
           committer_branch: metrics

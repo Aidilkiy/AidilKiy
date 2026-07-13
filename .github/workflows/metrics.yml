@@ -20,6 +20,7 @@ jobs:
           user: AidilKiy
           template: terminal
           base: header
+          config_theme: dark-blue
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           committer_branch: metrics

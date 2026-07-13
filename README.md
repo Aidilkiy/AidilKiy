@@ -121,8 +121,7 @@ Ask natural-language questions about any public GitHub repo and get answers grou
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AidilKiy&show_icons=true&hide_border=true&bg_color=071A1F&title_color=2DD4BF&text_color=E2E8F0&icon_color=2DD4BF" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AidilKiy&layout=compact&hide_border=true&bg_color=071A1F&title_color=2DD4BF&text_color=E2E8F0" height="165" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/AidilKiy/AidilKiy/metrics/github-metrics.svg" width="100%" alt="GitHub metrics" />
 </div>
 
 ---

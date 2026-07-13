@@ -19,7 +19,7 @@ $ whoami
 > Aidil Rozaidi — Software Engineer based in Petaling Jaya, Malaysia
 > Currently: Technical Support Trainee Associate @ The Access Group (K-Youth Programme)
 > Building: full-stack apps, GenAI/RAG tools, and cross-platform mobile + AR
-> Background: BSc (Hons) Software Engineering, CGPA 3.30/4.00, Dean's List
+> Background: BSc (Hons) Software Engineering
 > Certified: AWS Cloud Practitioner
 ```
 
@@ -32,7 +32,7 @@ $ whoami
 - 🤖 Built a full-stack **Retrieval-Augmented Generation (RAG)** tool using the Gemini API — see RepoChat below
 - 📱 Developed a **Flutter, Unity, and Firebase**-based augmented reality navigation system as my Final Year Project
 - ☁️ AWS Certified Cloud Practitioner · Google Project Management Certificate holder
-- 🚀 Interested in Software Engineering, AI/ML, Application Support, and Cloud/DevOps
+- 🚀 Interested in Software Engineering, Mobile Development, AI/ML, Application Support, and Cloud/DevOps
 
 ---
 

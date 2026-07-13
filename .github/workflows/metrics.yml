@@ -18,7 +18,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: AidilKiy
-          template: classic
+          template: terminal
           base: header
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15

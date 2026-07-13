@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A1F,100:2DD4BF&height=200&section=header&text=Aidil%20Rozaidi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20AI%2FML&descAlignY=58&descSize=18&descColor=2DD4BF" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A1F,100:2DD4BF&height=200&section=header&text=Aidil%20Rozaidi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20Mobile%20%C2%B7%20AI%2FML&descAlignY=58&descSize=18&descColor=2DD4BF" width="100%" alt="header" />
 
 <a href="https://aidildev.vercel.app">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Mobile+%26+AR+Developer;AI%2FML+Engineer;Building+with+Gemini+%2B+RAG" alt="Typing SVG" />

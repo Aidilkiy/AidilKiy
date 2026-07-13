@@ -107,19 +107,24 @@ Ask natural-language questions about any public GitHub repo and get answers grou
 
 ## 📜 Certifications
 
-<div align="center">
-
+<table align="center">
+<tr>
+<td align="center" width="160">
 <a href="https://www.credly.com/badges/3b5061d1-87dc-4743-86d5-e816a34857d0">
-  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" width="110" alt="AWS Certified Cloud Practitioner" />
-  <br><sub><b>AWS Certified Cloud Practitioner</b></sub>
+<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" width="100" alt="AWS Certified Cloud Practitioner" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<sub><b>AWS Certified Cloud Practitioner</b></sub>
+</td>
+<td align="center" width="160">
 <a href="https://www.credly.com/badges/d07c25ea-e889-41ef-b827-0510f98ef5d9/linked_in_profile">
-  <img src="https://images.credly.com/images/771cff46-3573-4d12-bfd8-528745f00957/linkedin_thumb_GCC_badge_PGM_1000x1000.png" width="110" alt="Google Project Management Certificate" />
-  <br><sub><b>Google Project Management Certificate</b></sub>
+<img src="https://images.credly.com/images/771cff46-3573-4d12-bfd8-528745f00957/linkedin_thumb_GCC_badge_PGM_1000x1000.png" width="100" alt="Google Project Management Certificate" />
 </a>
-
-</div>
+<br>
+<sub><b>Google Project Management Certificate</b></sub>
+</td>
+</tr>
+</table>
 
 ---
 

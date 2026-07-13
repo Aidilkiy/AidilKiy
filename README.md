@@ -48,7 +48,6 @@ $ whoami
 
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-orange?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-black?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
@@ -132,7 +131,7 @@ Ask natural-language questions about any public GitHub repo and get answers grou
 
 ### 📫 Let's Connect
 
-Open to opportunities in **Software Engineering, Full-Stack Development, and AI/ML Engineering**.
+Open to opportunities in **Software Engineering, Full-Stack Development, Mobile Development, and AI/ML Engineering**.
 
 <a href="https://aidildev.vercel.app">🌐 Portfolio</a> ·
 <a href="mailto:aidilkiy21@gmail.com">📧 Email</a> ·

@@ -111,8 +111,8 @@ Ask natural-language questions about any public GitHub repo and get answers grou
 
 | Certification | Issuer | Status |
 |---|---|---|
-| AWS Certified Cloud Practitioner | Amazon Web Services | Completed |
-| Google Project Management Certificate | Coursera | Completed |
+| [AWS Certified Cloud Practitioner](https://www.credly.com/badges/3b5061d1-87dc-4743-86d5-e816a34857d0) | Amazon Web Services | Completed |
+| [Google Project Management Certificate](https://www.credly.com/badges/d07c25ea-e889-41ef-b827-0510f98ef5d9/linked_in_profile) | Coursera | Completed |
 
 </details>
 

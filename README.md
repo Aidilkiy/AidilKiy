@@ -64,10 +64,6 @@ $ whoami
 
 Ask natural-language questions about any public GitHub repo and get answers grounded in the actual source code, with file/line citations.
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Aidilkiy/repo-chat/main/repochat-demo.gif" width="85%" alt="RepoChat demo: indexing a repo and asking a cited question" />
-</div>
-
 - Ingestion pipeline fetches a repo's files via the GitHub API, chunks them, and embeds each chunk with Gemini for similarity search
 - Gemini 2.5 Flash generates answers strictly from retrieved code excerpts, keeping every answer traceable to source
 - Containerized with Docker, deployed as a live project — [try it](https://repo-chat-ydtv.onrender.com) · [source](https://github.com/Aidilkiy/repo-chat)

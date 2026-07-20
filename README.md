@@ -14,6 +14,12 @@
 
 </div>
 
+<div align="center">
+
+<img src="./aidil-ascii.svg" width="420" alt="ASCII portrait of Aidil Rozaidi" />
+
+</div>
+
 ```text
 $ whoami
 > Aidil Rozaidi — Software Engineer based in Petaling Jaya, Malaysia
